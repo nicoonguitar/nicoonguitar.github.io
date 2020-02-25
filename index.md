@@ -27,4 +27,5 @@ Discover and book unique local experiences, tours, activities, and hotels, while
 	alt="Profile photo" 
 	style="width: 300px" />
 
-[AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
+* [AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
+* [Source](https://keyopass.com)
