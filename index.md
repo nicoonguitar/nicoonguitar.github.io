@@ -16,19 +16,23 @@ I recently got into public speaking, [here](https://github.com/nicoonguitar/talk
 
 ## Experience
 
-### Wink Bar
+### Velco
+
+I led the iOS team working on the main features, as Bluetooth communication and Over the air updates, track & trace, navigation and mobile subscriptions for both Wink Bar and Velco Tour iOS apps.
+
+#### Wink Bar
 
 * [AppStore link](https://apps.apple.com/fr/app/wink-bar-bike-gps-tracking/id1386766589)
 
-### Velco Tour
+#### Velco Tour
 
 * [AppStore link](https://apps.apple.com/fr/app/velco-tour-tourism-guide/id1447098734)
 
-### KeyoPass
+### KeyoCoin (formerly TheBesty)
 
-#### The Social Impact Travel App
+#### KeyoPass
 
-Discover and book unique local experiences, tours, activities, and hotels, while helping the communities where you travel. You book, and we donate to a local nonprofit at your destination.
+Built their main iOS app, written in Objective-C and Swift, with features as a Real-time Chat with a Hotel concierge, Tour bookings using Stripe payments and downloading content for offline use. I was part of a multicultural team working on an English speaking environment.
 
 <img src="./img/keyopass_phone_screens_experiences.png" 
 	alt="Profile photo" 
