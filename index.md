@@ -8,8 +8,7 @@ I'm Nicolás García, a software engineer from Chile currently living in Paris a
 
 I'm currently part of the Security products iOS team at [Netatmo](https://www.netatmo.com). In the past, I led the iOS teams at [Velco](https://velco.bike), building IoT products for Smart mobility and bike tracking, and [KeyoCoin](https://keyopass.com) - formerly _TheBesty_ -,  real time chat hotel concierge and tour booking for travelers.
 
-* [GitHub](https://github.com/nicoonguitar)
-* [Twitter](https://twitter.com/nicoonguitar)
+Take a look at my [GitHub account](https://github.com/nicoonguitar), follow me on [Twitter](https://twitter.com/nicoonguitar) or feel free to contact me via [email](mailto:nigarcia88@gmail.com).
 
 ## Public speaking
 
