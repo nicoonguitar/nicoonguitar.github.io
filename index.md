@@ -17,6 +17,14 @@ I recently got into public speaking, [here](https://github.com/nicoonguitar/talk
 
 ## Portfolio
 
+### Wink Bar
+
+* [AppStore link](https://apps.apple.com/fr/app/wink-bar-bike-gps-tracking/id1386766589)
+
+### Velco Tour
+
+* [AppStore link](https://apps.apple.com/fr/app/velco-tour-tourism-guide/id1447098734)
+
 ### KeyoPass
 
 #### The Social Impact Travel App
@@ -29,3 +37,15 @@ Discover and book unique local experiences, tours, activities, and hotels, while
 
 * [AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
 * [Source](https://keyopass.com)
+
+### AptoVegan
+
+Whether you’re an expert vegan or you have just begun, finding products that are suitable for you at the supermarket will be much easier by using AptoVegan.
+
+<img src="./img/aptovegan_iphone2.png" 
+	alt="Profile photo" 
+	style="width: 400px" />
+
+
+* [AppStore link](https://apps.apple.com/ar/app/aptovegan/id1281331534)
+* [Source](https://aptovegan.com/en/)
