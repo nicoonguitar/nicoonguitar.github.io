@@ -14,3 +14,17 @@ I'm currently part of the Security products iOS team at [Netatmo](https://www.ne
 ## Public speaking
 
 I recently got into public speaking, [here](https://github.com/nicoonguitar/talks) are my talks so far.
+
+## Portfolio
+
+### KeyoPass
+
+#### The Social Impact Travel App
+
+Discover and book unique local experiences, tours, activities, and hotels, while helping the communities where you travel. You book, and we donate to a local nonprofit at your destination.
+
+<img src="./img/keyopass_phone_screens_experiences.png" 
+	alt="Profile photo" 
+	style="width: 300px" />
+
+[AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
