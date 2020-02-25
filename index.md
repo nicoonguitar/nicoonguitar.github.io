@@ -14,7 +14,7 @@ Take a look at my [GitHub account](https://github.com/nicoonguitar), follow me o
 
 I recently got into public speaking, [here](https://github.com/nicoonguitar/talks) are my talks so far.
 
-## Portfolio
+## Experience
 
 ### Wink Bar
 
@@ -36,6 +36,8 @@ Discover and book unique local experiences, tours, activities, and hotels, while
 
 * [AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
 * [Source](https://keyopass.com)
+
+## Projects
 
 ### AptoVegan
 
