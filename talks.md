@@ -22,6 +22,8 @@ Event | Date | Location | Topic |
 ---
 ## UI Testing: Dealing with Push Notifications
 
+<iframe  title="YouTube video player" width="480" height="390" src="https://www.youtube.com/watch?v=B3APP0jslK8?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
 [Slides](https://speakerdeck.com/nicoonguitar/ui-testing-dealing-with-push-notifications) | [Video (ES) ](https://www.youtube.com/watch?v=B3APP0jslK8) | [Demo project](https://github.com/nigarcia88/TestingPushNotifications) |
 --- | --- | --- |
 
