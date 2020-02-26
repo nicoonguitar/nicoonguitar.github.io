@@ -11,10 +11,7 @@ Previously, I led the iOS teams at [Velco](https://velco.bike), building IoT pro
 Take a look at my [GitHub account](https://github.com/nicoonguitar), follow me on [Twitter](https://twitter.com/nicoonguitar) or feel free to contact me via [email](mailto:nigarcia88@gmail.com).
 
 * [Projects](projects.md)
-
-## Public speaking
-
-I recently got into public speaking, [here](https://github.com/nicoonguitar/talks) are my talks so far.
+* [Public speaking](talks.md)
 
 ## Experience
 
