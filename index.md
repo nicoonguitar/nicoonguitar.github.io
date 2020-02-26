@@ -10,6 +10,8 @@ Previously, I led the iOS teams at [Velco](https://velco.bike), building IoT pro
 
 Take a look at my [GitHub account](https://github.com/nicoonguitar), follow me on [Twitter](https://twitter.com/nicoonguitar) or feel free to contact me via [email](mailto:nigarcia88@gmail.com).
 
+* [Projects](projects.md)
+
 ## Public speaking
 
 I recently got into public speaking, [here](https://github.com/nicoonguitar/talks) are my talks so far.
@@ -40,17 +42,3 @@ Built their main iOS app, written in Objective-C and Swift, with features as a R
 
 * [AppStore link](https://itunes.apple.com/us/app/keyopass-your-crypto-concierge/id1020945768)
 * [Source](https://keyopass.com)
-
-## Projects
-
-### AptoVegan
-
-Whether you’re an expert vegan or you have just begun, finding products that are suitable for you at the supermarket will be much easier by using AptoVegan.
-
-<img src="./img/aptovegan_iphone2.png" 
-	alt="Profile photo" 
-	style="width: 400px" />
-
-
-* [AppStore link](https://apps.apple.com/ar/app/aptovegan/id1281331534)
-* [Source](https://aptovegan.com/en/)
